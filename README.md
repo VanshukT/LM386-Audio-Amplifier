@@ -23,7 +23,7 @@ The prototype is assembled on a breadboard and connected to an audio source and 
 
 ## Project Photograph
 
-The actual breadboard setup will be documented here.
+![LM386 Audio Amplifier](IMG_0952.webp)
 
 ## Testing and Observations
 
