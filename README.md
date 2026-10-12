@@ -19,7 +19,6 @@ The setup includes a breadboard circuit, an audio input connection, and a speake
 
 The prototype is assembled on a breadboard and connected to an audio source and a speaker.
 
-**Components, circuit values, power supply details, and pin connections will be added after verification.**
 ## Components Used
 
 - LM386 audio amplifier IC
