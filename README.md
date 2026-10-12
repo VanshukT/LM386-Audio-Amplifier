@@ -20,7 +20,28 @@ The setup includes a breadboard circuit, an audio input connection, and a speake
 The prototype is assembled on a breadboard and connected to an audio source and a speaker.
 
 **Components, circuit values, power supply details, and pin connections will be added after verification.**
+## Components Used
 
+- LM386 audio amplifier IC
+- Breadboard and jumper wires
+- Audio input source
+- Speaker
+- Power supply and supporting components
+
+## Circuit Working
+
+The LM386 is a low-voltage audio power amplifier IC. It amplifies a small audio input signal to drive a speaker. The circuit is assembled on a breadboard to study audio amplification and practical circuit connections.
+
+## Testing and Observations
+
+The circuit setup and speaker connections are documented with a project photograph. Detailed testing observations and performance measurements will be added after verification.
+
+## Future Improvements
+
+- Add a labelled circuit schematic.
+- Document verified component values and pin connections.
+- Record input and output observations.
+- Study the effect of supply voltage and input signal on audio output.
 ## Project Photograph
 
 ![LM386 Audio Amplifier](IMG_0952.webp)
